@@ -16,7 +16,7 @@ A modern **frontend-only** web application built with **Vite + TypeScript** that
 
 ---
 
-🔗**Links:** **[🚀 Live Demo](https://remove-background-free.vercel.app/)** | **[🗄️ Server Repo](https://github.com/With-ALIF/remove-background)**
+🔗**Links:** **🌐[Live Demo](https://remove-background-free.vercel.app/)** | **🗄️[Server Repo](https://github.com/With-ALIF/remove-background)**
 ---
 
 ## 🚀 Features
