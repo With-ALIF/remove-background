@@ -34,7 +34,7 @@ A modern **frontend-only** web application built with **Vite + TypeScript** that
 ## 📸 Screenshots
 
 ### 🔹 Application Preview
-<img src="https://github.com/With-ALIF/remove-bg/blob/main/assets/sample.png?raw=true"
+<img src="https://github.com/With-ALIF/remove-background/blob/main/assets/sample.png?raw=true"
      alt="App Screenshot"
      width="300"
      height="300">
